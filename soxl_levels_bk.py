@@ -4,11 +4,10 @@ Chạy: python soxl_levels.py            -> in JSON ra stdout
       python soxl_levels.py --md       -> in thêm bảng markdown tóm tắt
 Yêu cầu: pip install yfinance pandas
 """
-import sys, json, time
+import sys, json
 from datetime import datetime, timedelta
 import pandas as pd
 import yfinance as yf
-from yfinance.exceptions import YFRateLimitError
 
 # Windows cmd mặc định cp1252 -> ép UTF-8 để in tiếng Việt/emoji
 if sys.stdout.encoding and sys.stdout.encoding.lower() != "utf-8":
@@ -19,16 +18,9 @@ REFS = {"SOXL": "SOXL", "SOXX": "SOXX", "CADUSD": "CADUSD=X"}
 LOOKBACK_DAYS = 200
 
 
-def fetch(ticker, days=LOOKBACK_DAYS, max_attempts=1, retry_delay=60):
-    for attempt in range(max_attempts):
-        try:
-            df = yf.download(ticker, period=f"{days}d", interval="1d",
-                             auto_adjust=True, progress=False)
-            break
-        except YFRateLimitError:
-            if attempt + 1 >= max_attempts:
-                raise
-            time.sleep(retry_delay)
+def fetch(ticker, days=LOOKBACK_DAYS):
+    df = yf.download(ticker, period=f"{days}d", interval="1d",
+                     auto_adjust=True, progress=False)
     if isinstance(df.columns, pd.MultiIndex):
         df.columns = df.columns.get_level_values(0)
     return df.dropna()
@@ -65,21 +57,10 @@ def swings(df, w=3, n=3):
 def main():
     out = {"ticker": TICKER, "generated_at": datetime.now().isoformat(timespec="minutes"),
            "warnings": []}
-    try:
-        df = fetch(TICKER, max_attempts=2, retry_delay=60)
-    except Exception as exc:
-        if isinstance(exc, YFRateLimitError):
-            warning = "Yahoo Finance tạm giới hạn truy cập sau 2 lần thử"
-        else:
-            warning = "Không tải được dữ liệu chính SOXL.NE"
-        out["warnings"].append(warning)
-        out["error"] = {"type": type(exc).__name__, "message": str(exc)}
-        print(json.dumps(out, ensure_ascii=False, indent=2))
-        return 1
+    df = fetch(TICKER)
     if df.empty or len(df) < 60:
         out["warnings"].append("KHÔNG đủ dữ liệu SOXL.NE từ yfinance")
-        print(json.dumps(out, ensure_ascii=False, indent=2))
-        return 1
+        print(json.dumps(out, ensure_ascii=False, indent=2)); return
 
     # --- kiểm tra chất lượng dữ liệu ---
     last_date = df.index[-1].date()
@@ -139,7 +120,7 @@ def main():
     refs = {}
     for name, t in REFS.items():
         try:
-            rd = fetch(t, 10, max_attempts=1)
+            rd = fetch(t, 10)
             refs[name] = {"close": round(float(rd["Close"].iloc[-1]), 4),
                           "change_pct": round(float(rd["Close"].pct_change().iloc[-1] * 100), 2),
                           "date": rd.index[-1].date().isoformat()}
@@ -156,8 +137,6 @@ def main():
         for n, v in ema.items():
             print(f"| EMA{n} | {v} |")
 
-    return 0
-
 
 if __name__ == "__main__":
-    sys.exit(main())
+    main()

@@ -1,7 +1,8 @@
 """
-soxl_levels.py — tính các mức kỹ thuật cho SOXL.NE (Cboe Canada, CAD).
-Chạy: python soxl_levels.py            -> in JSON ra stdout
-      python soxl_levels.py --md       -> in thêm bảng markdown tóm tắt
+ta_levels.py — tính các mức kỹ thuật cho ETF đòn bẩy niêm yết Canada.
+Chạy: python ta_levels.py HNU.TO            -> JSON ra stdout
+      python ta_levels.py SOXL.NE --md      -> thêm bảng markdown
+      python ta_levels.py                   -> mặc định SOXL.NE
 Yêu cầu: pip install yfinance pandas
 """
 import sys, json, time
@@ -10,12 +11,26 @@ import pandas as pd
 import yfinance as yf
 from yfinance.exceptions import YFRateLimitError
 
-# Windows cmd mặc định cp1252 -> ép UTF-8 để in tiếng Việt/emoji
 if sys.stdout.encoding and sys.stdout.encoding.lower() != "utf-8":
     sys.stdout.reconfigure(encoding="utf-8")
 
-TICKER = "SOXL.NE"
-REFS = {"SOXL": "SOXL", "SOXX": "SOXX", "CADUSD": "CADUSD=X"}
+# ---- profile theo ticker: refs = mã tham chiếu, gap = ngưỡng nghi consolidation ----
+PROFILES = {
+    "SOXL.NE": {
+        "name": "BetaPro 3x Semiconductor Daily Bull (Cboe Canada, CAD)",
+        "leverage": "3x",
+        "refs": {"SOXL": "SOXL", "SOXX": "SOXX", "CADUSD": "CADUSD=X"},
+        "gap": 0.40,
+    },
+    "HNU.TO": {
+        "name": "BetaPro Natural Gas Leveraged Daily Bull 2x (TSX, CAD)",
+        "leverage": "2x",
+        # NG=F = Henry Hub front month; BOIL = 2x nat gas Mỹ; UNG = 1x
+        "refs": {"NG_futures": "NG=F", "BOIL": "BOIL", "UNG": "UNG", "CADUSD": "CADUSD=X"},
+        # nat gas có thể +-15%/ngày -> 2x = 30%; đặt ngưỡng cao hơn để không cắt nhầm
+        "gap": 0.45,
+    },
+}
 LOOKBACK_DAYS = 200
 
 
@@ -38,8 +53,7 @@ def rsi(close, n=14):
     delta = close.diff()
     up = delta.clip(lower=0).ewm(alpha=1 / n, adjust=False).mean()
     down = (-delta.clip(upper=0)).ewm(alpha=1 / n, adjust=False).mean()
-    rs = up / down
-    return 100 - 100 / (1 + rs)
+    return 100 - 100 / (1 + up / down)
 
 
 def atr(df, n=14):
@@ -51,7 +65,6 @@ def atr(df, n=14):
 
 
 def swings(df, w=3, n=3):
-    """Swing highs/lows gần nhất (cực trị cục bộ trong cửa sổ w mỗi bên)."""
     highs, lows = [], []
     h, l = df["High"], df["Low"]
     for i in range(w, len(df) - w):
@@ -63,35 +76,35 @@ def swings(df, w=3, n=3):
 
 
 def main():
-    out = {"ticker": TICKER, "generated_at": datetime.now().isoformat(timespec="minutes"),
-           "warnings": []}
+    args = [a for a in sys.argv[1:] if not a.startswith("--")]
+    ticker = args[0].upper() if args else "SOXL.NE"
+    prof = PROFILES.get(ticker, {"name": ticker, "leverage": "?", "refs": {"CADUSD": "CADUSD=X"}, "gap": 0.40})
+
+    out = {"ticker": ticker, "name": prof["name"], "leverage": prof["leverage"],
+           "generated_at": datetime.now().isoformat(timespec="minutes"), "warnings": []}
     try:
-        df = fetch(TICKER, max_attempts=2, retry_delay=60)
+        df = fetch(ticker, max_attempts=2, retry_delay=60)
     except Exception as exc:
-        if isinstance(exc, YFRateLimitError):
-            warning = "Yahoo Finance tạm giới hạn truy cập sau 2 lần thử"
-        else:
-            warning = "Không tải được dữ liệu chính SOXL.NE"
-        out["warnings"].append(warning)
+        out["warnings"].append("Yahoo Finance tạm giới hạn truy cập sau 2 lần thử"
+                               if isinstance(exc, YFRateLimitError)
+                               else f"Không tải được dữ liệu chính {ticker}")
         out["error"] = {"type": type(exc).__name__, "message": str(exc)}
         print(json.dumps(out, ensure_ascii=False, indent=2))
         return 1
     if df.empty or len(df) < 60:
-        out["warnings"].append("KHÔNG đủ dữ liệu SOXL.NE từ yfinance")
+        out["warnings"].append(f"KHÔNG đủ dữ liệu {ticker} từ yfinance")
         print(json.dumps(out, ensure_ascii=False, indent=2))
         return 1
 
-    # --- kiểm tra chất lượng dữ liệu ---
     last_date = df.index[-1].date()
     if (datetime.now().date() - last_date) > timedelta(days=4):
         out["warnings"].append(f"Dữ liệu cũ: bar cuối {last_date}")
 
-    # Gap >40% một phiên = gần chắc là consolidation/split chưa điều chỉnh
-    gaps = (df["Close"].pct_change().abs() > 0.40)
+    gaps = (df["Close"].pct_change().abs() > prof["gap"])
     if gaps.any():
         cut = df.index[gaps][-1]
         out["warnings"].append(
-            f"Gap >40% ngày {cut.date()} (consolidation?) — chỉ dùng dữ liệu từ sau ngày đó")
+            f"Gap >{int(prof['gap']*100)}% ngày {cut.date()} (consolidation?) — chỉ dùng dữ liệu từ sau ngày đó")
         df = df.loc[cut:]
         if len(df) < 60:
             out["warnings"].append("Sau khi cắt gap còn <60 phiên — EMA50/RSI kém tin cậy")
@@ -100,19 +113,17 @@ def main():
         out["warnings"].append("Volume phiên cuối rất thấp")
 
     c = df["Close"]
-    last = df.iloc[-1]
-    prev = df.iloc[-2]
+    last, prev = df.iloc[-1], df.iloc[-2]
     ema = {n: round(float(c.ewm(span=n, adjust=False).mean().iloc[-1]), 2) for n in (9, 21, 50)}
     r = round(float(rsi(c).iloc[-1]), 1)
     a = float(atr(df).iloc[-1])
     slope20 = round(float((c.iloc[-1] / c.iloc[-21] - 1) * 100), 2) if len(c) > 21 else None
 
-    # pivot points cổ điển từ phiên trước
     H, L, C = float(last["High"]), float(last["Low"]), float(last["Close"])
     PP = (H + L + C) / 3
-    piv = {"PP": PP, "R1": 2 * PP - L, "S1": 2 * PP - H,
-           "R2": PP + (H - L), "S2": PP - (H - L)}
-    piv = {k: round(v, 2) for k, v in piv.items()}
+    piv = {k: round(v, 2) for k, v in {
+        "PP": PP, "R1": 2 * PP - L, "S1": 2 * PP - H,
+        "R2": PP + (H - L), "S2": PP - (H - L)}.items()}
     sh, sl = swings(df)
 
     out.update({
@@ -135,12 +146,12 @@ def main():
         "swing_highs": sh, "swing_lows": sl,
     })
 
-    # --- tham chiếu Mỹ + FX ---
     refs = {}
-    for name, t in REFS.items():
+    for name, t in prof["refs"].items():
         try:
             rd = fetch(t, 10, max_attempts=1)
-            refs[name] = {"close": round(float(rd["Close"].iloc[-1]), 4),
+            refs[name] = {"symbol": t,
+                          "close": round(float(rd["Close"].iloc[-1]), 4),
                           "change_pct": round(float(rd["Close"].pct_change().iloc[-1] * 100), 2),
                           "date": rd.index[-1].date().isoformat()}
         except Exception as e:
@@ -150,12 +161,11 @@ def main():
     print(json.dumps(out, ensure_ascii=False, indent=2))
 
     if "--md" in sys.argv:
-        print("\n| Mức | Giá (CAD) |\n|---|---|")
+        print(f"\n**{ticker}** — {prof['name']}\n\n| Mức | Giá (CAD) |\n|---|---|")
         for k in ("R2", "R1", "PP", "S1", "S2"):
             print(f"| {k} | {piv[k]} |")
         for n, v in ema.items():
             print(f"| EMA{n} | {v} |")
-
     return 0
 
 
