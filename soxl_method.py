@@ -296,6 +296,8 @@ def advise(a):
     ccy = a["ccy"]
     L.append(f"Regime: **{a['regime']}** — giá {a['price_vs_sma']['sma50']} SMA50, {a['price_vs_sma']['sma200']} SMA200; "
              f"MACD đường đỏ đang **{ms.get('red_direction','?')}**"
+             + (f"; zero line: xanh {'trên' if ms['macd'] > 0 else 'dưới'} ({ms['macd']}), "
+                f"đỏ {'trên' if ms['above_zero'] else 'dưới'} ({ms['signal_red']})" if "above_zero" in ms else "")
              + (f", {ms['rounding']}" if ms.get("rounding") else "")
              + (f", {ms['last_cross']['type']} cách {ms['last_cross']['days_ago']} phiên" if ms.get("last_cross") else "") + ".")
     if a.get("hugging"):

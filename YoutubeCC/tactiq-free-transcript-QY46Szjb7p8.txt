@@ -1,0 +1,595 @@
+# tactiq.io free youtube transcript
+# Máy In Tiền SOXL - Phải Coi
+# https://www.youtube.com/watch/QY46Szjb7p8
+
+00:00:03.120 Hôm nay á mình muốn làm cái video này
+00:00:05.920 cho những người mới vô
+00:00:08.639 mà hay hỏi vớ vẩn. Alri
+00:00:12.679 thì á việc đầu tiên á muốn vô cái group
+00:00:16.920 chat để mà thực hành với cách mua bán mà
+00:00:21.439 mỗi lần mình mua mình bán mình bỏ lên á
+00:00:24.960 thì mọi người phải vô cái group mình
+00:00:28.080 muốn có tiền khi về hưu ở Facebook để mà
+00:00:30.480 đọc.
+00:00:32.880 Thì cái việc đầu tiên á
+00:00:35.760 là á nhiều người trong đây á đã viết
+00:00:39.079 những cái bài rất là hay để mà giúp mọi
+00:00:42.360 người tóm tắt lại tất cả những gì mình
+00:00:45.719 đã viết. Thì việc đầu tiên á là phải vô
+00:00:48.840 cái feature.
+00:00:50.960 Cái feature này đó là nó có tất cả những
+00:00:53.840 cái bài
+00:00:57.480 mà gọi là
+00:00:59.680 như Vũ đã viết rồi đây nè.
+00:01:02.239 Trong cái feature đó nó có nhiều cái bài
+00:01:05.640 mà cái bài quan trọng nhất á mà mình
+00:01:08.840 muốn mọi người đọc đó là cái bài in tiền
+00:01:13.240 từ socks. Ok.
+00:01:16.759 Thì trong đây nó có luôn cả cái gai nữa
+00:01:19.360 nè.
+00:01:21.320 Tất cả mọi thứ á nhiều người đã viết ở
+00:01:23.640 trong đây rồi á thì cái việc đầu tiên á
+00:01:26.600 là phải đọc cái feature tất cả những bài
+00:01:29.479 trong cái feature
+00:01:31.600 thì trong cái feature đó là nó có những
+00:01:33.799 cái bài
+00:01:35.759 mà có những cái link để mà vào
+00:01:41.680 á mình không thể nào mà mình nói cho mọi
+00:01:44.320 người biết cứ vô á sẵn á là hỏi link ở
+00:01:47.360 đâu.
+00:01:49.040 Khi người nào hỏi cái links ở đâu đó là
+00:01:51.560 mình biết những người đó không bao giờ
+00:01:52.799 đọc một cái chó gì hết á nha. Mà không
+00:01:55.600 đọc đó là không có công trạng gì á mà ở
+00:01:58.240 trong đây để mà kiếm tiền. Nếu biết in
+00:02:01.280 tiền từ ST á thì cả đời không bao giờ
+00:02:04.520 phải lo tiền. Alri.
+00:02:08.000 Ok. Đây là những người mới vồ. Bây giờ
+00:02:11.239 mình muốn làm cái video này đó để mình
+00:02:13.360 giải thích lại tất cả mọi thứ.
+00:02:16.519 Nhưng mà cái quan trọng nữa đó mình muốn
+00:02:19.599 nhắc mọi người đó cái SOL nó là
+00:02:25.400 leverage
+00:02:28.120 nhân 3 của thằng SOX của semiconductor
+00:02:33.760 nên nếu không làm đúng đó thì có thể mất
+00:02:37.280 tiền là bởi vì nó bị decay.
+00:02:40.920 Chợ á mà lên một á thì nó lên ba. Mà ờ
+00:02:45.319 chợ mà xuống một á thì nó cũng xuống ba.
+00:02:50.400 Mà cái kinh á là khi mà nó xuống nhân ba
+00:02:52.640 đó mà trở ngược lại đó phải lên nhiều
+00:02:55.519 hơn là ba lần mới đụng lại được cái vốn.
+00:03:00.080 Nên tại sao á mà không đọc kỹ mà mua gáp
+00:03:03.200 down và bán gáp up
+00:03:06.080 thì có thể không kiếm được đồng bạc cách
+00:03:07.640 nào hết. Ok. Sao in tiền từ socks. Ok.
+00:03:12.480 Nó là cái máy in tiền đó. Trong cái
+00:03:15.280 feature này nè. Mở cái này ra
+00:03:21.879 thì mình sẽ ghi từng cái một. [khịt mũi]
+00:03:24.720 Chỉ mua gáp đ 1/4 của 1/5 tổng số tiền
+00:03:29.560 mình có. Và theo tiêu chuẩn đó là -8 gáp
+00:03:35.000 down nhá. -1 - 14 -1 nghĩa là sao?
+00:03:41.239 5000
+00:03:43.200 thì mình chỉ mua được 1000 là 1/5 tức là
+00:03:47.319 20% đó. Mỗi một lần nó gáp down 8 14 17.
+00:03:56.319 Nghĩa là cái ngày hôm đó nó gáp đo đó là
+00:04:00.120 mình chỉ mua được 1000 đồng bạc mà thôi.
+00:04:03.840 Dù nó có rớt xuống 25% á mình cũng không
+00:04:07.799 mua
+00:04:09.360 average down cho tới cái tiền thứ nhì.
+00:04:11.799 Ok. Tức là tối đa mình chỉ mua 1000 của
+00:04:16.000 5000 mình có.
+00:04:18.358 Nghĩa là sao? Nghĩa là -8 mình mua được
+00:04:22.000 250 đồng.
+00:04:24.520 -11 mình mua được 250 đồng.
+00:04:28.400 -14 mình mua được 250 đồng và -17 mình
+00:04:32.800 mua được 250 đồng. Mua xong rồi đó mà nó
+00:04:37.280 rớt tiếp á thì đi ra. Nhưng
+00:04:42.240 phải coi cái video về cái cách mua gáp
+00:04:45.479 down.
+00:04:47.880 Khi mua được á -11 á
+00:04:52.360 thì mình phải thủ vốn của cái thằng -8
+00:04:56.360 nếu nó bật lên trên. Hoặc là mình thủ
+00:05:00.039 vốn của cái thủ lời nha của cái thằng
+00:05:03.039 -11. Thí dụ mình mua được ở -8,
+00:05:08.320 mình mua được ở nó xuống -11, nó xuống
+00:05:11.720 -12
+00:05:13.360 nó chưa đụng -14 nha.
+00:05:16.360 mà nó bật lên á mà -10 đó
+00:05:21.479 -8 -9 á thì mình phải thủ vốn cái thằng
+00:05:26.160 -8 nhưng mà á nó chưa đụng cái thằng -8
+00:05:30.479 lên trên cái thằng -8 được á thì mình
+00:05:32.800 chưa thủ vốn được cái thằng -8 nhưng mà
+00:05:35.479 mình đã có lời ở cái thằng -11 thì á
+00:05:40.039 mình lời và mình đi ra.
+00:05:43.680 Nhưng mà cái quan trọng á là khi mình
+00:05:46.440 mua được -11 mà nó bật lên đó -8 đó thì
+00:05:50.759 mình dùng cái thằng -11 này nè để mình
+00:05:54.000 thủ cái tiền lời hoặc là cái tiền vốn.
+00:05:57.919 Muốn ăn hết luôn cả ba bốn cái này đó
+00:06:01.120 thì mình chỉ để giá stop limit của thằng
+00:06:04.440 -11 là -11
+00:06:07.680 cộng với lại ch5
+00:06:10.560 cộng với 5 cm. Ok.
+00:06:13.840 Phải biết cách gọi là để cái stop limit
+00:06:18.720 thủ cái vốn 11 này đi. Tại vì -8 á nó
+00:06:21.840 chưa đụng lại rồi. Mình thủ vốn thằng
+00:06:24.520 11.
+00:06:26.960 Nếu á mà nó lại xuống đụng thằng 11 lại
+00:06:29.400 mà nó xuống tiếp á thì mình đã thủ được
+00:06:31.680 cái vốn này rồi thì mình sẽ mua được
+00:06:33.199 thấp hơn. Nhớ
+00:06:35.479 khi á mà mình thủ vốn được 11 mà nó
+00:06:37.960 xuống -12 là phải bụp liền cái -12
+00:06:44.919 là bởi vì á mình mua -8 nhưng mà bây giờ
+00:06:48.240 mình mua được -11 mình thủ vốn -11 được
+00:06:51.280 rồi đó mà mình được -12 đó thì mình bục
+00:06:54.720 cái -12 tức là 8 tới 12 là tới 4% lận
+00:06:58.080 nha.
+00:06:59.520 Nếu -12 mà tới -13 nó không đụng được
+00:07:02.520 cái -14 tại vì mình đã để sẵn cái giá
+00:07:04.800 mua ở -14 rồi mà nó lại bật lên á mình
+00:07:08.080 lại thủ vốn ở -13. Thủ vốn là sao? Nhớ
+00:07:11.840 thủ vốn khác trade nha là không có ăn
+00:07:14.720 lợi. Thủ vốn á là tiền mua cái giá mua
+00:07:19.319 cộng với 10 cm hoặc là 5 cm. Nhưng mà
+00:07:22.479 bây giờ đó là cái stock của nó là 190
+00:07:25.400 đồng. Đó cái spread của nó là 10 cm lận
+00:07:29.800 nên khi mình để stop limit á mình muốn
+00:07:33.759 bán ở cái -13 hay là -12 mình mới mua đó
+00:07:38.800 thì mình để cái giá mua
+00:07:42.000 cộng với lại 10 cm gọi là stop nếu mà nó
+00:07:47.800 đụng đụng cái giá mua thí dụ như bây giờ
+00:07:50.560 nói rõ đây 190 đồng
+00:07:53.759 mình mua đồ 190 đồng mà nó đụng nó lên
+00:07:58.199 trên 100
+00:08:01.000 91 mình thủ vốn mình để stop limit ở
+00:08:05.800 190.1
+00:08:09.400 và cái limit á là 190 để mà thủ cái vốn
+00:08:13.800 đó. Ok.
+00:08:16.120 Thì nếu mà nó có rớt xuống á dưới đó nữa
+00:08:19.080 thì nó lục cái của mình 190 thì mình sẽ
+00:08:22.759 mua được thấp hơn. Nếu mà nó xuống 189
+00:08:26.240 họ ngay cả 189.5
+00:08:30.905 [khịt mũi]
+00:08:31.800 thì cứ càng lúc mình càng mua được thấp
+00:08:34.120 hơn và mình chỉ thủ vốn. Thủ vốn là làm
+00:08:36.240 sao? là bởi vì mình đã mua được cái -8
+00:08:38.760 này rồi,
+00:08:40.719 phải [khịt mũi] mua được thấp mới thủ
+00:08:43.039 vốn cái thằng cao.
+00:08:45.560 Mà nếu á mà mình bị cứ bị nó lụm hoài ở
+00:08:49.200 -11,
+00:08:50.720 12
+00:08:53.279 tới lúc nó đụng 14 là mình đã để tiền
+00:08:55.120 sẵn rồi là mình đã bụp được cái 14 rồi.
+00:08:58.200 Ok. Thì á cái 1/5 của mình á mình vẫn
+00:09:03.320 chưa xài hết. Phải nhớ cái 1/4 thứ nhì
+00:09:07.040 đó mình cứ thủ vốn thủ vốn thủ vốn hoài
+00:09:09.760 á thì cái 1/4 thứ nhì mình đã mua được
+00:09:12.120 thấp hơn rồi. Và tới khi nó đụng 14 - 14
+00:09:15.640 á là mình mua được 2/4
+00:09:19.440 ở -14 lận.
+00:09:22.320 Nhớ cái này.
+00:09:24.399 Thủ vốn thủ vốn thủ vốn.
+00:09:28.720 Bây giờ nói phải có free share.
+00:09:32.800 Mọi người cứ lời là bán tống bán tháo đi
+00:09:35.040 hết.
+00:09:36.600 Free là làm sao? Nếu mình mua 10 share
+00:09:40.079 đó
+00:09:42.000 mà mình kiếm được 10% đó thì mình chỉ có
+00:09:44.680 bán 9 share đi thôi và giữ một share. Là
+00:09:47.600 bởi vì sao?
+00:09:50.560 Bởi vì á khi mà nó đi như vầy nè
+00:09:55.120 mà bán sạch bắt hết á là không có gáp
+00:09:57.680 đao để mà mua lại.
+00:10:00.079 Và khi á
+00:10:03.880 mà á
+00:10:05.839 mỗi lần mà nó xuống á mình cứ mua 10
+00:10:09.079 được lời 10% mình lại bỏ vào trong đó
+00:10:11.399 nữa thì cái free share mỗi một ngày nó
+00:10:14.200 một lên. Ok.
+00:10:16.959 Đây là cái cách mà mình nói về cái cách
+00:10:19.440 mua gáp nào mà phải kỷ luật kiên nhẫn.
+00:10:25.160 Đừng có phô mà thấy nó rớt xuống 20% lại
+00:10:28.160 mua tiếp 1/4 còn 1/5 còn lại nữa là đi
+00:10:31.760 ăn mày.
+00:10:33.839 Mình chỉ cần á 1/5
+00:10:38.519 mỗi một tuần, mỗi một tháng nó gáp down
+00:10:42.560 đó
+00:10:44.160 là mình đủ 26% 1 năm rồi. Ok.
+00:10:49.920 Cứ làm đúng như vậy.
+00:10:52.320 Bây giờ đó là nói nè,
+00:10:56.120 phải biết về MACD và phải biết về cái
+00:11:00.360 Bollinger Band.
+00:11:02.600 Đây là cái Bollinger Band nè. Hai two
+00:11:05.760 deviation và 3 deviation nó cứ monman
+00:11:09.720 theo cái two deviation là không có bán.
+00:11:13.079 Mà mình đã nói rồi, gáp up 10% chỉ bán
+00:11:16.399 1/3 của tổng số share mình có
+00:11:21.200 không bán hết. Cứ bán 1/3 1/3 1/3 v cuối
+00:11:24.920 cùng mình vẫn còn một vẫn còn 2/3 của
+00:11:28.240 cái tổng số xe mình có. Thằng nhóc bây
+00:11:31.399 giờ còn có
+00:11:33.480 60 xe thôi. Giờ mà nó lên cao đó nó còn
+00:11:37.160 20 xe rồi nó mua lại [khịt mũi] rồi nó
+00:11:42.040 có sáu một trăm mấy chục xe xong nó lại
+00:11:44.440 lên lại thì nó lại bán tiếp. Nhưng mà
+00:11:47.519 không bao giờ đã bán hết. Cái 20 xe đó
+00:11:50.079 luôn luôn nó có.
+00:11:52.120 Cái này là khi ma cái Ber Bear nó đi lên
+00:11:58.240 và cái MACD nó cũng đi lên nè.
+00:12:03.880 Khi mà nó cái con cá sấu á mà nó há mõ
+00:12:07.200 một ngày nó gáp đo nên nó đi xuống nè
+00:12:10.760 thì nó biến thành như là cái mắt của con
+00:12:12.760 cá sấu nè. Rồi nó kéo dài ra rồi nó để
+00:12:15.240 mà há mồm nó đi lên thì nó gáp đao nó đi
+00:12:18.800 lên.
+00:12:20.120 Thì con cá sấu mà há mồm đi lên á là nó
+00:12:22.800 cứ tiếp tục đi lên.
+00:12:27.440 Đây là lúc nó đi xuống.
+00:12:30.199 Phải biết MACD, phải biết Bollinger Band
+00:12:33.040 mà trong cái group chat mình cứ nói
+00:12:34.639 hoài. Mình không viết được mỗi một ngày
+00:12:37.920 ở trong cái Facebook nhưng mà mình sẽ
+00:12:41.639 báo cho mọi người biết ở trong cái group
+00:12:43.519 chat. Nếu không vô được group chat á
+00:12:47.800 thì đứng ngoài đó mà coi mỗi một tuần.
+00:12:50.839 Bây giờ đó
+00:12:53.600 là cái MACD nó sắp sửa nó đụng nhau. Nhớ
+00:12:57.279 nè. Khi mà nó đụng nhau đó là nó giống
+00:13:00.639 như ở đây nè. Đường xanh đi xuống nhá.
+00:13:05.240 Đụng xong một cái
+00:13:07.959 há mồm đi lên là từ đây mà lên tới đây.
+00:13:11.199 Đó cả 100%. Nếu thằng này mà đụng lại đó
+00:13:14.920 là phải o lên mà nhớ nha. Cái O lên của
+00:13:19.360 mình đó là O lên 1/5 của tổng số tiền
+00:13:22.079 mình có chứ không phải là O lên tất cả
+00:13:25.839 100%.
+00:13:28.440 Phải hiểu như vậy trong group chat khi
+00:13:30.399 mà á mình nói alri bây giờ là Bollinger
+00:13:34.880 Band bây giờ đó tại vì market đang up
+00:13:39.440 nên nó là Binger Band và MCD nó đang đi
+00:13:41.600 lên.
+00:13:43.160 50 ngày ở đây nè, 200 ngày nằm ở dưới
+00:13:46.040 đây nã nằm trên rồi, nó gọi là bullish.
+00:13:50.560 Bây giờ nhiều người còn vẫn chưa hiểu á
+00:13:52.880 là cái gáp up và gáp down là gì?
+00:13:56.519 Gáp up nè,
+00:13:58.720 đóng cửa ở 56 đồng 55 cm.
+00:14:03.720 Ngày hôm sau đó mở cửa đó giá mở cửa là
+00:14:07.279 66 đồng 33 cm.
+00:14:10.079 Và nguyên cái ngày hôm đó đó cái thấp
+00:14:12.560 nhất của nó là 63 đồng 56 cm. Nó chưa
+00:14:16.560 đụng lại cái 56 đồng 55 cm thì cái này
+00:14:21.199 nó có một cái gáp. Cái gáp là sự khác
+00:14:24.680 biệt giá giữa ngày hôm trước và cái ngày
+00:14:28.839 hôm sau đóng cửa.
+00:14:31.600 Ngay c nói là ngày hôm sau lô. Ok.
+00:14:35.399 Thì cái gáp này nó gọi là gáp. Mà khi
+00:14:38.360 mình nói gáp up á là mình nói gáp ấp ở
+00:14:40.560 cái giá
+00:14:42.519 mà đóng cửa ngày hôm trước
+00:14:45.959 đây là 56 55 thì khi mà nói đó nó còn
+00:14:50.240 cái gác ở 56 đồng 55 chưa đụng thì cái
+00:14:54.480 này á chưa đụng thì nó gọi là gáp sống
+00:14:58.079 mà đụng rồi á thì nó gọi là gáp chết.
+00:15:00.720 Thí dụ
+00:15:02.959 một đống gáp ấp chưa đụng ở bảy mấy đồng
+00:15:05.320 ở đây là kinh hoàng. Đóng cửa 9468
+00:15:11.759 mở cửa là 9597.
+00:15:14.720 Ok. Đây nè là một cái gáp chết này.
+00:15:20.279 Ngày hôm trước đóng 9468,
+00:15:22.600 ngày hôm sau mở cửa 95 97. Tức là đóng
+00:15:25.639 là mở cửa cao hơn là gáp. Đúng chưa?
+00:15:28.519 Nhưng mà trong ngày nó rớt xuống.
+00:15:32.199 92
+00:15:33.839 là 3 tức là nó đã đụng cái thằng 94 rồi
+00:15:39.160 và nó đóng á 94 68 này nó đóng ở 95
+00:15:45.680 94. Ok.
+00:15:49.639 Mà nhớ khi nó có cái
+00:15:53.199 bo đỏ đó tức là nó đóng dưới cái giá mở
+00:15:56.560 cửa. Giá mở cửa là 9597 mà đóng ở 9594
+00:16:01.399 nên nó đóng dưới có chút xíu thì thành
+00:16:03.319 ba đỏ. Mà khi á mà là ba xanh là sao? Mở
+00:16:07.560 cửa, đóng cửa cao hơn cái giá mở cửa thì
+00:16:11.079 nó thành 3 cm. Al
+00:16:14.360 phải hiểu cái cáp up cáp down trước cái
+00:16:16.000 đã tính gì tính.
+00:16:18.079 Cái này là gáp chết này. 9468 là gáp
+00:16:21.440 chết rồi nè. Đó, nó đã phê rồi nè. Bây
+00:16:24.319 giờ nói cái thằng này 95 94
+00:16:28.519 ngày hôm sau á
+00:16:31.120 lô của nó là 9532.
+00:16:35.160 Tức là cái gáp ấp này á cũng chết luôn
+00:16:37.920 rồi nè. Ok.
+00:16:40.519 Còn gáp sống là gáp nào? Gáp sống là gáp
+00:16:42.680 này nè. 98 đồng 9 mở cửa
+00:16:48.199 102
+00:16:50.199 mà ngày hôm đó đó hôm nay đó là không có
+00:16:54.199 một cái giá nào đụng cái giá 9809 tức là
+00:16:59.240 gáp ấp 9809 còn sống
+00:17:03.560 một đống cái gáp ấp còn sống
+00:17:06.599 ok bây giờ gáp down là gì
+00:17:10.359 gáp down đó là đóng cửa cửa 123 đồng 39
+00:17:17.199 mở cửa 128
+00:17:19.720 à 108 đồng [thở dài]
+00:17:23.359 tức là nó có một cái khoảng cách
+00:17:27.039 nhưng mà á những ngày hôm sau đó là nó
+00:17:29.600 đụng thì không còn cái gáp down này đó
+00:17:33.240 1239 này nó là gáp đo chết nữa rồi bởi
+00:17:36.320 vì nó đã phiêu gấp rồi nè khi nó đụng
+00:17:39.520 lại rồi thì nó thành chết
+00:17:42.960 tại bây giờ Mar đang lên không có một
+00:17:44.679 cái gáp đao nào mà sống hết á. Toàn gáp
+00:17:47.200 đao chết không à. Nhưng mà á mỗi một lần
+00:17:50.760 á nó muốn đụng cái gáp down đó là nó gáp
+00:17:54.559 up để nó đụng cái gáp down thì nó lại
+00:17:57.760 create những cái gáp up sống khác. Kinh
+00:18:02.080 hoàng chưa?
+00:18:04.000 Nên tại sao mình nói á là phải có free
+00:18:07.400 share là bởi vì á thằng S á là tối ngày
+00:18:10.760 gáp up nó gáp up sao mà chạy kíp.
+00:18:15.960 Còn gáp up ở đây nữa nè là 144 16
+00:18:21.400 nhưng mà nó đã đụng ở đây rồi nè là 135
+00:18:25.280 tức là nó đã đụng cái gáp 144 16 này rồi
+00:18:28.640 này là gáp chết rồi nè.
+00:18:31.039 Bây giờ chỉ còn cái gáp sống á. Gấp ấp
+00:18:33.880 sống đó là 127 55. Ok.
+00:18:39.520 Bây giờ mình muốn nói mỗi một tháng đó
+00:18:43.280 là sót cho mình một ngày trên 10% để
+00:18:48.320 mình bụp. Ok.
+00:18:52.120 Nếu nhìn tất cả những cái ngày ở đây là
+00:18:54.679 nguyên một tháng luôn luôn có gáp down
+00:18:57.200 để mà mình bụp.
+00:19:00.320 Gáp down nè để bụp nè.
+00:19:04.159 Gáp down để mình bụp nè. Gáp down để
+00:19:07.440 mình bụp nè.
+00:19:09.400 Nếu mà không có kỷ luật và kiên nhẫn và
+00:19:12.000 chờ những cái ngày này đó mà không bụp á
+00:19:15.799 mà ngồi mà suy diễn là tôi muốn mua thấp
+00:19:18.360 hơn đó
+00:19:21.440 mà mất ăn những cái này đó
+00:19:25.240 thì tới lúc á mà lại không có phi share
+00:19:28.600 nữa nha. Thì tới cái lúc á mà á nó rớt
+00:19:33.760 mà nhảy vô bụp á là nó rớt luôn á là ôm
+00:19:36.600 ở đỉnh. Nhớ như vậy. Tới giờ này mọi
+00:19:40.280 người phải hiểu cái cáp ấp và cáp đau là
+00:19:42.280 gì.
+00:19:44.679 Và mỗi một tháng phải có một ngày 18% để
+00:19:49.360 mình bụp.
+00:19:51.200 mà ngày đó mà còn suy diễn mà không bục
+00:19:53.320 á
+00:19:55.400 thì mình không còn gì để nói nữa. Bây
+00:19:58.360 giờ mình muốn nói về cái average up.
+00:20:02.919 Tại nó cứ lên như vậy thì làm sao?
+00:20:06.240 Nhưng mà muốn average up phải có free
+00:20:08.760 share.
+00:20:12.280 Ok
+00:20:14.520 bây giờ mình nói về cái average up.
+00:20:18.240 Average up là sao?
+00:20:22.244 >> [khịt mũi]
+00:20:22.760 >> A up là mình phải có share rồi nha.
+00:20:26.720 Thí dụ như thằng nhóc này nè,
+00:20:30.520 nó có 20 xe từ hồi 40 đồng 60 cm.
+00:20:36.679 Alri
+00:20:38.720 thì khi á
+00:20:41.000 mà
+00:20:42.600 thị trường chưa có gáp down nhiều á
+00:20:47.520 thì nó aage up á ở 148 đồng,
+00:20:53.080 164 đồng
+00:20:57.120 và
+00:20:59.000 50 xe ở 164 đồng 50 cm. Đó thì á phải
+00:21:03.960 nhớ khi nó average up á thì nó sẽ cho
+00:21:06.440 mình biết á là cái tổng số tiền cái
+00:21:11.080 average price của cái tụi này nó là bao
+00:21:13.200 nhiêu.
+00:21:15.960 Thì á khi mà hai thằng này nó có lời nè.
+00:21:19.480 Ok.
+00:21:22.080 Nó sẽ bán
+00:21:24.960 cái tiền mới. Nó sẽ giữ 40 xe thôi. Nó
+00:21:29.279 chỉ giữ 40 xe. 40 xe. 40 xe. Nó cứ giữ
+00:21:32.039 hoài. Mà Sus
+00:21:35.159 139 đồng 60 cm á
+00:21:39.279 thì là cái ngày đó nó bụp 100 share của
+00:21:42.960 thằng 139 đồng 61.
+00:21:46.559 Và khi á mà nó gáp 180 đồng á nó lại nhả
+00:21:51.520 ra từ. Nhưng mà nhớ nha,
+00:21:55.279 gáp down đó mình bụp nhiều
+00:21:58.600 nhưng khi mình đẩy đó mình đẩy như là 10
+00:22:01.520 share 20 share 10 share 20 share nhưng
+00:22:05.799 mà phải nhớ luôn luôn giữ double cái
+00:22:09.679 share của cái thằng đầu tiên tức là 40
+00:22:12.919 share. Ok.
+00:22:15.440 Thì á nó bán cho tới còn 20 20 thì nó
+00:22:20.520 lại bán cao nó mua thấp lại 20 share. Đó
+00:22:23.960 là gọi là average up.
+00:22:26.679 Tại hai thằng này đó mà cộng lại chia
+00:22:28.600 đôi nó có 95 đồng à.
+00:22:31.799 Bây giờ 171 đồng vô nó chỉ là 125 đồng
+00:22:35.039 mà thôi.
+00:22:37.440 Thì sao?
+00:22:39.919 40 share này nó gọi là cái core
+00:22:44.559 share này nó sẽ giữ cả đời tại 139 đồng
+00:22:47.799 rồi.
+00:22:50.480 Nên tại sao mình cứ nói ai mà không có
+00:22:52.360 free share là day trade mà day trade là
+00:22:54.679 không có kiếm được tiền. Thằng nhóc này
+00:22:56.360 nó cứ tiếp tục nếu mà thằng này s mà lên
+00:22:59.600 320 đồng nó vẫn còn 40 share.
+00:23:03.080 Nhưng mà bây giờ đó là nó muốn giữ 60
+00:23:05.559 share. Bây giờ 171
+00:23:08.799 nó là 190. Ok.
+00:23:13.520 Thì cứ mỗi lần một cái gáp down đó
+00:23:17.200 mà 18 20% đó thì nó bụp 100 share
+00:23:23.919 mà nhưng mà phải gáp down nó mới bụp
+00:23:26.120 tiền mới. Còn nếu không nó cứ giữ free
+00:23:28.919 share như vầy hoài và nó average up. Bây
+00:23:31.799 giờ thí dụ như nó 171 đồng mà bây giờ 19
+00:23:36.039 là 20 xe thôi nha.
+00:23:39.360 Thì á khi nó lên 19 nó lại đẩy.
+00:23:44.000 Nó đẩy xong đó rồi nó sẽ mua lại.
+00:23:46.606 [khịt mũi]
+00:23:48.600 Thì mặc dù đó là cái AV share đó nó cứ
+00:23:52.640 từ mỗi một ngày nó một lên cao nhưng mà
+00:23:55.919 nó đã ăn no ngủ kỹ.
+00:23:59.640 Bây giờ những cái thằng 20 C ở 176 đ 169
+00:24:03.200 đồng nó đã bán là 19 rồi, 192 rồi.
+00:24:07.640 Nên cái này á mọi người phải hiểu á
+00:24:11.679 là cái aage up. Nhưng mà muốn aage up á
+00:24:16.520 thì mình phải có share. Mà không có
+00:24:19.559 share là chỉ có ngồi ngó chứ không có
+00:24:21.279 average vớ vạnn gì hết.
+00:24:23.799 Thí dụ như thằng lớn nó bụp 1000 share
+00:24:26.840 rồi nó bụp
+00:24:29.960 2000 share 139 đồng 61 này nó sẽ không
+00:24:34.880 có bán,
+00:24:36.960 nó sẽ giữ free share.
+00:24:40.559 138 đồng này nó cũng giữ luôn, nó không
+00:24:43.720 có bán,
+00:24:46.120 nó sẽ giữ free share.
+00:24:49.320 Thì á nếu mà bây giờ mà nó lên tới 190
+00:24:52.360 đồng á nó bán đi cũng được
+00:24:55.640 là bởi vì nó gáp ấp rồi
+00:24:58.559 thì sao? Nó sẽ mua lại cao hơn cũng chả
+00:25:01.799 sao.
+00:25:03.480 Nhưng mà phải hiểu cái average up là gì?
+00:25:05.862 [khịt mũi]
+00:25:06.960 Mình phải có cái giá thấp thì mình mới
+00:25:09.600 average up cái cao
+00:25:12.399 39 với lại 192 đó là nó khác nhau tới 50
+00:25:17.200 đồng.
+00:25:19.279 Thì á khi thằng này á mà nó lên tới 200
+00:25:22.320 đồng nó đẩy cái 20 xe này đi và nó mua
+00:25:25.960 lại thấp hơn.
+00:25:29.000 Nhưng mà nó sẽ giữ cái thằng 60 xe này
+00:25:32.640 nếu mà nó cứ tiếp tục nó lên tiếp nó sẽ
+00:25:35.679 average up. Là bởi vì sao? 171
+00:25:39.399 trừ đi 190 đó
+00:25:43.279 là nó đã
+00:25:45.799 có ở trong đó 20 đồng
+00:25:50.159 thì bây giờ nó có mua thêm 20 xe mới nữa
+00:25:53.080 đó aage up đó
+00:25:56.080 thì nếuá 190 đồng đó mà nó rớt xuống 180
+00:26:00.720 đồng hay là 188 đồng thì nó bán cái
+00:26:02.960 thằng này đi nè nó vẫn lời dù nó g bị
+00:26:06.000 dính ở 190 90 đồng
+00:26:08.960 average up nó là như vậy. Mà nếu á mà 18
+00:26:14.520 190 đồng á mà nó xuống không đụng 188
+00:26:18.080 đồng hay là 185 đồng mình để cái stop
+00:26:20.080 limit của cái thằng này nha. Cái 171
+00:26:22.799 đồng 63 này nè mình để stop limit ở 185
+00:26:28.039 nếu mà mình mua cái 20 xe mới ở 190.
+00:26:32.080 Tức là có năm đồng difference.
+00:26:34.440 Tức là nếu á mà nó có rớt xuống nó lụm
+00:26:37.039 cái thằng 185 đồng đó tức là mình chỉ có
+00:26:40.679 mất 5 đồng nhưng mà nó là tiền lời của
+00:26:44.000 cái thằng này rồi mà thằng kia mình bị
+00:26:45.960 đụng á là đỉnh á là 190
+00:26:50.799 không sao hết tại mình đã ăn no ngủ kỹ ở
+00:26:54.039 cái thằng 171 đồng này rồi
+00:26:58.399 mình vẫn còn 60 xe
+00:27:01.840 nhưng mà nếu mà nó không rớt 5 đồng để
+00:27:03.880 mà nó đụng 185 đồng đó mà nó lên trên
+00:27:07.440 190 đó mà nó lên 195 đồng đó thì mình sẽ
+00:27:12.080 có 80 share và nó lên 200 mình sẽ có 18
+00:27:16.880 mình sẽ có 80 share ở 200
+00:27:20.399 nhưng mà nó khi á mà nó lên 195 đồng á
+00:27:24.799 thì mình sẽ bụp 20 xe nữa
+00:27:29.120 là 100 share nhưng mà mình sẽ thủ vốn
+00:27:34.080 ở cái thằng 190 đồng mình mới mua thì
+00:27:39.360 mình đã để stop limit á ở 191 đồng là
+00:27:45.799 mình lời đồng đúng không? Mà thằng kia
+00:27:47.960 đó 195 mình lỗ 4 đồng nếu nó đụng cái
+00:27:50.960 191
+00:27:53.399 nhưng mà mình vẫn còn lời cái thằng này
+00:27:55.159 đó là 171
+00:27:57.240 mọi người phải biết làm toán và cái đầu
+00:28:00.399 óc á phải linh động
+00:28:03.360 mình muốn làm sao mình muốn aage up chứ
+00:28:06.120 lúc mà nó lên 360 đồng đó mà mình vẫn
+00:28:09.120 còn á 100 200 xe đó thì mình ăn chọn
+00:28:14.840 hai cái thằng này nó sẽ ăn cả tỷ nè nè
+00:28:16.880 139 nè 171 nè một 40 đồng không bao giờ
+00:28:22.159 bán
+00:28:24.880 tại sao mình có nói day trade khác với
+00:28:27.679 lại mình stop limit nha
+00:28:31.480 cứ thấy mình bị lụm là bảo mình trad
+00:28:35.200 không hiểu bài này á
+00:28:38.360 thì mình phải nói ngu á là cũng phải ngu
+00:28:40.279 vừa thôi nhớ average up nó khác thủ vốn
+00:28:45.799 nó khác với day trade. Day trade là
+00:28:48.399 không còn một tí share nào hết.
+00:28:51.559 Đây là 360
+00:28:54.200 share
+00:28:57.279 free
+00:28:59.600 mà SC một ngày đó là nó cho mình 5000.
+00:29:04.960 Bán tống bán tháo đi làm cái gì?
+00:29:08.840 Bây giờ muốn average up á
+00:29:12.720 thì 360 share đó.
+00:29:15.880 sẽ thàn 720 share.
+00:29:20.679 720 share đó average up á
+00:29:26.039 sẽ là 1400 share mà lúc nó ở 360 đồng
+00:29:30.159 mình muốn có 1000 share ở 360 đồng thằng
+00:29:35.120 nhóc á
+00:29:38.519 phải có 160 xe hay là 100 bây giờ nó là
+00:29:43.360 60 xe thì nó là 120 xe ở 360 đồng cũng
+00:29:48.760 được
+00:29:50.840 phải nhớ khi mua được 139 đồng, khi mua
+00:29:54.640 được 40 đồng, khi mua được 120 đồng là
+00:29:58.840 khó trở lại tại bởi vì nó đã thử 150
+00:30:03.960 đồng hai lần rồi. Actually ba lần rồi
+00:30:09.399 mua được 139 đồng là mừng lắm rồi. Nó mà
+00:30:13.039 trở lại là market đi ăn mày luôn thì
+00:30:15.159 cũng không sao.
+00:30:17.480 Mình đã ăn non ngủ kỹ rồi là bởi vì sao?
+00:30:19.840 Mình aage up
+00:30:22.480 >> chợ xuống á thì ít share mà chợ lên á
+00:30:26.720 thì cả tỷ xe. Cầm nang nói vậy
+00:30:31.039 >> tiên mới lời á là mình thủ lời rồi. Nó
+00:30:35.799 có rớt xuống nó không đụng được. Tới cái
+00:30:38.080 thằng thằng 139 171 đồng của mình
+00:30:44.320 mình có mua cao ở 190 đồng á 195 đồng
+00:30:48.559 cũng không sao.
+00:30:51.080 New 2 của nó là 195 đồng tuần rồi nó sẽ
+00:30:54.200 phải thử lại 195.
+00:30:58.000 Mục tiêu á của mình á của trong cái
+00:31:01.639 group này đó
+00:31:04.320 là 3 năm 100%.
+00:31:08.480 thì cứ có bao nhiêu tiền á
+00:31:12.399 trong băng á, trong procurage bây giờ đó
+00:31:15.880 thì cứ tính 3 năm tới là nó đồ.
+00:31:20.080 Thì nếu 100.000 ngàn á mà có đó
+00:31:24.240 thì 12 năm đó sẽ có 1 triệu
+00:31:29.799 kỷ luật và kiên nhẫn và biết cách đi tề,
+00:31:35.279 biết cách average up, biết cách mua gáp
+00:31:39.080 down, bán gáp up. Mà cái quan trọng nhất
+00:31:43.480 á là phải có kỷ luật và kiên nhẫn.
+00:31:49.880 Mình từ trừ á trên 100.000
+00:31:53.000 23 năm mình có trên 2 triệu.
+00:31:59.080 Không làm đúng đó 30 năm cũng chả có
+00:32:02.120 đồng bạc cách nào ấ chứ đừng có nói đã
+00:32:05.519 vô được tới đây coi được cái video này á
+00:32:12.039 phải có kỷ luật và kiên nhẫn.
+00:32:14.840 Và cái sự quan trọng nhất á là phải cố
+00:32:18.559 gắng để mà vượt qua tất cả mọi cái sự
+00:32:23.000 khó khăn để đạt được tới cái mục tiêu
+00:32:28.559 mỗi 3 năm của mình thì phải có mục tiêu
+00:32:32.440 cho năm 26%
+00:32:35.519 là ít nhất.
+00:32:37.720 Người nào giỏi kiếm hơn tốt. Thằng dốc
+00:32:40.720 bây giờ đó là đã 30% rồi. Nó sẽ đi tiếp
+00:32:45.320 tục 3 năm 100%.
+00:32:48.600 >> Day trade làm gì mà có free share? Không
+00:32:51.679 có free share là sao mà up bụp cái nào
+00:32:55.200 là giá cao tội bố nằm ở đó luôn.
+00:32:59.440 Sợ đu đỉnh
+00:33:01.919 nó mà gáp ấp kỳ này á mà có khoảng 10
+00:33:04.360 lần á là bà con ngó nữa.
+00:33:07.360 Ok. [khịt mũi]
+00:33:08.600 Hôm nay đó là tuần cuối cùng tức là
+00:33:12.240 Memorial Day
+00:33:15.039 May 25th.
+00:33:18.519 Còn
+00:33:20.120 tuần tới
+00:33:23.200 là hết tháng năm.
+00:33:26.519 Chúc mọi người kiếm cả tỷ tháng sáu. Ok.

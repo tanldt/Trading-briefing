@@ -1,2 +1,4 @@
 reports/*.md
 reports/*.*
+reports/method/*.md
+reports/method/*.*
